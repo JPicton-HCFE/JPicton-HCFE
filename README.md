@@ -7,7 +7,7 @@
   Brief
 </h2>
 <p>
-  Welcome to my profile, this profile was made to help me complete work within college. Using the GitHub <a href="https://github.com/features/codespaces">codespaces</a> the help with doing some assignments along with general lesson work.
+  Welcome to my profile, this profile was made to help me complete work within college. Using the GitHub <a href="https://github.com/features/codespaces"><code style="color : magenta">codespaces</code></a> the help with doing some assignments along with general lesson work.
 </p>
 
 <div align="center">
@@ -22,10 +22,18 @@
 <h3>Languages</h3>
 <hr />
 <div align="center">
-  <img alt="HTML 5" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
-  <img alt="CSS3" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-  &nbsp;
-  <img alt="JavaScript" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+  <a href="https://html.com/html5/">
+    <img alt="HTML 5" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+  </a>
+  <a href="https://css3.com">
+    <img alt="CSS3" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+  </a>
+  <a href="https://www.javascript.com">
+    <img alt="JavaScript" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+  </a>
+  <a href="https://www.javascript.com">
+    <img alt="JavaScript" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
+  </a>
 </div>
 
 <h3>Links</h3>
