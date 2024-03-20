@@ -7,7 +7,7 @@
   Brief
 </h2>
 <p>
-  Welcome to my profile, this profile was made to help me complete work within college. Using the GitHub <a href="https://github.com/features/codespaces"><code style="color : magenta">codespaces</code></a> the help with doing some assignments along with general lesson work.
+  Welcome to my profile, this profile was made to help me complete work within college. Using the GitHub <a href="https://github.com/features/codespaces">codespaces</a> the help with doing some assignments along with general lesson work.
 </p>
 
 <div align="center">
@@ -31,8 +31,8 @@
   <a href="https://www.javascript.com">
     <img alt="JavaScript" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
   </a>
-  <a href="https://www.javascript.com">
-    <img alt="JavaScript" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
+  <a href="https://sass-lang.com">
+    <img alt="SCSS" height="80" width="80" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
   </a>
 </div>
 
