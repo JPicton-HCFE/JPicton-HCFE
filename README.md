@@ -10,14 +10,14 @@
   Welcome to my profile, this profile was made to help me complete work within college. Using the GitHub <a href="https://github.com/features/codespaces"><code style="color : magenta">codespaces</code></a> the help with doing some assignments along with general lesson work.
 </p>
 
-<!-- <div align="center"> -->
+<div align="center">
 <a href="https://github.com/JPicton-HCFE/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JPicton-HCFE&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/JPicton-HCFE/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JPicton-HCFE&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
 </a>
-<!-- </div> -->
+</div>
 
 <h3>Languages</h3>
 <hr />
