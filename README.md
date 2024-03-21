@@ -1,4 +1,7 @@
 <div align="center">
+    <img alt="GitHub Profile Header" src="images/github-header-image.png">
+</div>
+<div align="center">
 <img width="50" height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp5a2ZuM3Q5NmdhNGp1aTd4dXBjOWJya2FweTBnb2V0cDFvOXBtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif">
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=900&size=36&pause=1000&color=8407F7&center=true&vCenter=true&random=false&width=500&lines=Jordan+Picton" alt="Typing SVG" />
 <img width="50" height="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp5a2ZuM3Q5NmdhNGp1aTd4dXBjOWJya2FweTBnb2V0cDFvOXBtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif">
